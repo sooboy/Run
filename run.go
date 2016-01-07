@@ -50,6 +50,3 @@ func NewRun(DealFn func(interface{}) interface{}) *Run {
 	}
 }
 
-func DealData(data interface{}) interface{} {
-	return data
-}

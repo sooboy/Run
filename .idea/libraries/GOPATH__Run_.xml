@@ -592,9 +592,11 @@
       <root url="file://$USER_HOME$/Place/src/git.coding.net/Regan/go/src/encoding/json/testdata" />
       <root url="file://$USER_HOME$/Place/src/lantern/src/golang.org/x/tools/go/callgraph/rta/testdata" />
       <root url="file://$USER_HOME$/Place/src/git.coding.net/Regan/go/src/text/template/testdata" />
+      <root url="file://$PROJECT_DIR$/../github.com/sooboy/Run/.idea" />
       <root url="file://$PROJECT_DIR$/../百度云同步盘/代码/github.com/smartystreets/goconvey/.git" />
       <root url="file://$PROJECT_DIR$/../github.com/bmizerany/assert/.git" />
       <root url="file://$PROJECT_DIR$/../百度云同步盘/代码/github.com/gocql/gocql/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/sooboy/Run/.git" />
       <root url="file://$PROJECT_DIR$/../git.oschina.net/OO-o/oldAnalysis/.git" />
       <root url="file://$PROJECT_DIR$/../Get/.git" />
       <root url="file://$USER_HOME$/Place/src/jieji/templates/.idea" />

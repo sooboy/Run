@@ -4,7 +4,9 @@ import (
 	"github.com/sooboy/Run"
 	"fmt"
 )
-
+func DealData(data interface{}) interface{} {
+	return data
+}
 
 func main() {
 	//实例化一个新的Run
@@ -13,7 +15,7 @@ func main() {
 	go func() {
 		for {
 			select {
-			case item, ok := <-run.result:
+			case item, ok := <-run.Result():
 				if ok {
 					fmt.Println(item)
 				} else {
